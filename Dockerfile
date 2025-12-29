@@ -17,6 +17,6 @@ COPY src/ .
 
 # 修正權限 (確保 Web Server 能讀寫)
 RUN chown -R www-data:www-data /var/www/html
-
+#測試
 # 啟動 Supervisor (同時管理 Nginx 和 PHP)
 CMD ["/usr/bin/supervisord", "-c", "/etc/supervisord.conf"]
