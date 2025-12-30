@@ -40,6 +40,8 @@ define( 'DISALLOW_FILE_EDIT', true );
 // 設為 false，代表你在 AWS 正式環境也可以自由安裝外掛、更新佈景
 define( 'DISALLOW_FILE_MODS', false );
 
+define( 'FS_METHOD', 'direct' );
+
 // 禁止自動更新核心 (核心版本建議由 Docker Image 控制)
 define( 'WP_AUTO_UPDATE_CORE', false );
 
