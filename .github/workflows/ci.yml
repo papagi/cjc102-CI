@@ -11,9 +11,9 @@ permissions:
 
 env:
   AWS_REGION: ap-northeast-1
-  ECR_REPOSITORY: cjc102-10-ecr-repo
+  ECR_REPOSITORY: usa-wordpress
   # 使用你提供的真實角色 ARN
-  AWS_ROLE_ARN: arn:aws:iam::754515738597:role/GITHUB
+  AWS_ROLE_ARN: arn:aws:iam::706004250357:role/usa-dev-github-action-role
 
 jobs:
   deploy:
@@ -33,10 +33,10 @@ jobs:
         uses: aws-actions/amazon-ecr-login@v2
 
       # 2. 修正：補上實際的 docker 指令
-      - name: Build, tag, and push image
+      - name: Build, tag, and push image to Amazon ECR
         env:
           ECR_REGISTRY: ${{ steps.login-ecr.outputs.registry }}
-          IMAGE_TAG: latest
+          IMAGE_TAG: official
         run: |
           # 編譯 Docker 映像檔
           docker build -t $ECR_REGISTRY/$ECR_REPOSITORY:$IMAGE_TAG .
