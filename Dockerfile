@@ -24,6 +24,6 @@ COPY src/ .
 
 # 修正權限（確保 www-data 使用者有權限讀寫，這對應你 EFS Access Point 的 ID 33）
 RUN chown -R www-data:www-data /var/www/html
-
+#123
 # 啟動 Supervisor（同時管理 Nginx 和 PHP-FPM）
 CMD ["/usr/bin/supervisord", "-c", "/etc/supervisord.conf"]
