@@ -1,0 +1,432 @@
+# Translation of Themes - Hello Biz in Chinese (Taiwan)
+# This file is distributed under the same license as the Themes - Hello Biz package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2025-09-19 05:32:01+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/4.0.1\n"
+"Language: zh_TW\n"
+"Project-Id-Version: Themes - Hello Biz\n"
+
+#. Description of the theme
+#: style.css
+#, gp-priority: high
+msgid "Hello Biz is a free, user-friendly Hybrid WordPress Theme that was crafted for seamless integration with the Elementor site builder and tailored specifically for business websites. Perfect for beginners, but far from limited to just them, it features a dedicated beginner-oriented “Home” screen to simplify and streamline the web-building process. Hello Biz also integrates with Elementor’s premium features, giving you access to tools like AI, and accessibility enhancements in one place. Whether launching a startup site or refining a company portfolio, Hello Biz offers a solid, responsive foundation for all web creators. Report security bugs through the Patchstack Vulnerability Disclosure Program. The Patchstack team validates, triages, and handles vulnerabilities. Report here: https://patchstack.com/database/wordpress/theme/hello-biz/vdp."
+msgstr "Hello Biz 是一款免費、人性化的混合式 WordPress 佈景主題，專為商務網站設計並可與 Elementor 無縫整合。這個佈景主題適合初學者使用，但亦不限於初學者；它具備專為初學者設計的 [設定頁面]，簡化了網站的建置流程。Hello Biz 同時整合了 Elementor 的進階功能，讓使用者可以在同一位置使用如 AI、無障礙工具等功能。無論是要建置新創公司網站或公司作品及網站，Hello Biz 都能為網站建立者提供紮實而深具彈性的基礎。使用者可以透過 Patchstack 的漏洞揭露計畫回報安全性問題，Patachstack 團隊會協助驗證、分類及處理漏洞。回報網址: https://patchstack.com/database/wordpress/theme/hello-biz/vdp。"
+
+#. Theme Name of the theme
+#: style.css modules/admin-home/components/admin-menu-controller.php:28
+#: modules/admin-home/components/admin-menu-controller.php:29
+#: assets/js/hello-biz-admin-top-bar.js:1
+#, gp-priority: high
+msgid "Hello Biz"
+msgstr "Hello Biz"
+
+#: modules/theme/classes/customizer-action-links.php:63
+msgid "Customize your header and footer across your website."
+msgstr "自訂全站的頁首及頁尾。"
+
+#: modules/theme/classes/customizer-action-links.php:62
+msgid "Style your header and footer"
+msgstr "樣式化這個網站的頁首及頁尾"
+
+#: modules/conversion-banner/components/ajax-handler.php:26
+msgid "Click the link to activate Hello Plus."
+msgstr "點擊連結以啟用 Hello Plus。"
+
+#: modules/admin-home/rest/install-confirmation.php:62
+msgid "Install confirmation dialog dismissed."
+msgstr "安裝確認對話方塊已關閉。"
+
+#: modules/admin-home/rest/install-confirmation.php:53
+msgid "Failed to update user meta."
+msgstr "無法更新使用者中繼資料。"
+
+#: modules/admin-home/rest/install-confirmation.php:43
+msgid "User not found."
+msgstr "找不到符合條件的使用者。"
+
+#: modules/admin-home/components/admin-bar-controller.php:37
+msgid "Manage Hello Biz theme"
+msgstr "管理 Hello Biz 佈景主題"
+
+#: includes/welcome-banner-config.php:57
+#: modules/admin-home/components/admin-menu-controller.php:92
+msgid "Begin setup"
+msgstr "開始設定"
+
+#: includes/welcome-banner-config.php:53
+#: modules/admin-home/components/admin-menu-controller.php:89
+msgid "Finish setup"
+msgstr "完成設定"
+
+#: includes/welcome-banner-config.php:43
+msgid "Access the full suite of features, including website templates, header and footer templates, and extra widgets."
+msgstr "存取包含網站範本、頁首及頁尾範本及更多小工具等完整功能套件。"
+
+#: includes/welcome-banner-config.php:41
+msgid "Access everything you need to set up and manage your website."
+msgstr "存取用於設定及管理這個網站的全部項目。"
+
+#: includes/welcome-banner-config.php:39
+msgid "Choose a website template and start customizing your site."
+msgstr "選取網站範本並開始自訂這個網站。"
+
+#: includes/welcome-banner-config.php:37
+msgid "Hello+ is a free plugin that gives your website a header, footer, and extra widgets designed to help you build a business-ready site."
+msgstr "Hello Plus 是一款可提供網站頁首、頁尾及額外小工具，並協助使用者建置商務網站的免費外掛。"
+
+#: includes/welcome-banner-config.php:26 modules/theme/module.php:91
+msgid "Hello Biz Home"
+msgstr "Hello Biz 首頁"
+
+#: includes/welcome-banner-config.php:24
+msgid "Almost there"
+msgstr "接近就緒！"
+
+#: includes/welcome-banner-config.php:22
+msgid "Complete your website faster with Hello+"
+msgstr "使用 Hello Plus 便能更快速的建置網站"
+
+#: modules/admin-home/rest/promotions.php:49
+msgid "Connect any website to automated Email & SMS workflows in a click with Send."
+msgstr "使用 Send 便能一鍵將任何網站連接製電子郵件及簡訊自動化工作流程。"
+
+#: modules/admin-home/rest/promotions.php:46
+msgid "Send"
+msgstr "Send"
+
+#: modules/admin-home/rest/admin-config.php:302
+msgid "Site Favicon"
+msgstr "網站圖示"
+
+#: modules/admin-home/rest/admin-config.php:263
+msgid "Add New"
+msgstr "新增項目"
+
+#: modules/admin-home/rest/admin-config.php:259
+msgid "Edit"
+msgstr "編輯"
+
+#: modules/admin-home/components/admin-menu-controller.php:54
+#: modules/admin-home/components/admin-menu-controller.php:55
+#: modules/admin-home/rest/admin-config.php:219
+msgid "Theme Builder"
+msgstr "佈景主題編輯器"
+
+#: modules/admin-home/rest/admin-config.php:90
+msgid "Platinum Support"
+msgstr "優質技術支援"
+
+#: modules/admin-home/rest/admin-config.php:84
+msgid "Blog"
+msgstr "部落格"
+
+#: modules/admin-home/rest/admin-config.php:78
+msgid "Help Center"
+msgstr "線上說明"
+
+#: modules/admin-home/rest/admin-config.php:70
+msgid "Rate Us"
+msgstr "為佈景主題進行評等"
+
+#: modules/admin-home/rest/admin-config.php:65
+msgid "Discord"
+msgstr "Discord"
+
+#: modules/admin-home/rest/admin-config.php:59
+msgid "YouTube"
+msgstr "YouTube"
+
+#: modules/admin-home/rest/admin-config.php:53
+msgid "Facebook"
+msgstr "Facebook"
+
+#: template-parts/search.php:102
+msgid "Next"
+msgstr "下一頁"
+
+#: template-parts/search.php:91
+msgid "Previous"
+msgstr "上一頁"
+
+#. translators: 1: Number of results, 2: Search term
+#: template-parts/search.php:33
+msgid "%1$s found for %2$s"
+msgstr "找到符合「%2$s」的 %1$s"
+
+#. translators: %d: Number of search results
+#: template-parts/search.php:27
+msgid "%d result"
+msgid_plural "%d results"
+msgstr[0] "%d 個結果"
+
+#: template-parts/404.php:31
+msgid "Try searching or <a href=\"%s\">return to homepage</a>."
+msgstr "請使用搜尋功能或<a href=\"%s\">返回首頁</a>。"
+
+#: template-parts/404.php:20
+msgid "We can't find that page"
+msgstr "找不到符合條件的頁面"
+
+#: template-parts/404.php:17
+msgid "404"
+msgstr "404 錯誤"
+
+#: searchform.php:18 searchform.php:23
+msgctxt "submit button"
+msgid "Search"
+msgstr "搜尋"
+
+#: searchform.php:15
+msgctxt "placeholder"
+msgid "Search…"
+msgstr "搜尋..."
+
+#: searchform.php:14
+msgctxt "label"
+msgid "Search for:"
+msgstr "搜尋關鍵字:"
+
+#: modules/admin-home/rest/promotions.php:30
+msgid "Try Image Optimizer for free"
+msgstr "免費使用 Image Optimizer"
+
+#: modules/admin-home/rest/promotions.php:29
+msgid "Improve Speed."
+msgstr "提升速度。"
+
+#: modules/admin-home/rest/promotions.php:28
+msgid "Reduce Size."
+msgstr "減少檔案大小。"
+
+#: modules/admin-home/rest/promotions.php:27
+msgid "Optimize Images."
+msgstr "最佳化圖片。"
+
+#: modules/theme/starter-content/home.php:400
+msgctxt "Theme starter content"
+msgid "Home"
+msgstr "設定頁面"
+
+#: includes/welcome-banner-config.php:82
+msgid "By clicking \"%s\" I agree to install and activate the Hello+ plugin."
+msgstr "點擊 [%s] 代表同意並安裝並啟用 Hello Plus 外掛。"
+
+#: includes/welcome-banner-config.php:28
+msgid "Welcome to Hello Biz"
+msgstr "感謝採用 Hello Biz"
+
+#: template-parts/single.php:31
+msgid "Tagged "
+msgstr "標籤: "
+
+#: template-parts/search.php:73
+msgid "It seems we can't find what you're looking for."
+msgstr "目前找不到符合條件的項目。"
+
+#: template-parts/header.php:43
+msgid "Main menu"
+msgstr "主要選單"
+
+#: template-parts/footer.php:21
+msgid "Footer menu"
+msgstr "頁尾選單"
+
+#. translators: %s: HTML entity for arrow character.
+#: template-parts/archive.php:54
+msgid "Next %s"
+msgstr "下一篇 %s"
+
+#. translators: %s: HTML entity for arrow character.
+#: template-parts/archive.php:50
+msgid "%s Previous"
+msgstr "%s 上一篇"
+
+#: modules/theme/components/customizer.php:22
+msgid "Header & Footer"
+msgstr "頁首及頁尾"
+
+#: modules/theme/classes/customizer-action-links.php:66
+msgid "By clicking “Begin setup” I agree to install and activate the Hello+ plugin."
+msgstr "點擊 [開始設定] 代表同意並安裝並啟用 Hello Plus 外掛。"
+
+#: modules/theme/classes/customizer-action-links.php:61
+msgid "Elementor"
+msgstr "Elementor"
+
+#: modules/conversion-banner/components/conversion-banner.php:109
+msgid "Notice dismissed."
+msgstr "通知已關閉。"
+
+#: modules/theme/classes/customizer-action-links.php:55
+msgid "Finish Setup"
+msgstr "完成設定"
+
+#: modules/admin-home/rest/theme-settings.php:52
+msgid "Settings must be an array"
+msgstr "設定必須是陣列。"
+
+#: modules/admin-home/rest/promotions.php:94
+msgid "Role Manager"
+msgstr "使用者角色管理"
+
+#: modules/admin-home/rest/promotions.php:93
+msgid "Customs Attribute"
+msgstr "自訂屬性"
+
+#: modules/admin-home/rest/promotions.php:92
+msgid "Form Integrations"
+msgstr "表單整合"
+
+#: modules/admin-home/rest/promotions.php:91
+msgid "Form Submission"
+msgstr "表單傳送"
+
+#: modules/admin-home/rest/promotions.php:90
+msgid "Collaborative Notes"
+msgstr "協同合作筆記"
+
+#: modules/admin-home/rest/promotions.php:89
+msgid "E-commerce Features"
+msgstr "電子商務功能"
+
+#: modules/admin-home/rest/promotions.php:88
+msgid "Custom Code & CSS"
+msgstr "自訂程式碼及 CSS"
+
+#: modules/admin-home/rest/promotions.php:87
+msgid "Popup Builder"
+msgstr "彈出式訊息編輯器"
+
+#: modules/admin-home/rest/promotions.php:84
+msgid "Upgrade Now"
+msgstr "立即升級"
+
+#: modules/admin-home/rest/promotions.php:82
+msgid "Get complete design flexibility for your website with Elementor Pro’s advanced tools and premium features."
+msgstr "使用 Elementor Pro 的進階工具及功能，賦予網站完整的設計彈性。"
+
+#: modules/admin-home/rest/promotions.php:80
+msgid "Bring your vision to life"
+msgstr "讓夢想成真"
+
+#: modules/admin-home/rest/promotions.php:79
+msgid "Elementor Pro"
+msgstr "Elementor Pro"
+
+#: modules/admin-home/rest/promotions.php:70
+msgid "Let's Go"
+msgstr "進一步了解"
+
+#: modules/admin-home/rest/promotions.php:68
+msgid "Boost creativity with Elementor AI. Craft & enhance copy, create custom CSS & Code, and generate images to elevate your website."
+msgstr "使用 Elementor AI 加強創意揮灑。製作並增強文案、建立自訂 CSS 及程式碼，並產生圖片以加強網站訪客的印象。"
+
+#: modules/admin-home/rest/promotions.php:65
+#: modules/admin-home/rest/promotions.php:66
+msgid "Elementor AI"
+msgstr "Elementor AI"
+
+#: modules/admin-home/rest/promotions.php:32
+#: modules/admin-home/rest/promotions.php:51
+msgid "Install"
+msgstr "安裝"
+
+#: modules/admin-home/rest/promotions.php:24
+msgid "Elementor Image Optimizer"
+msgstr "Elementor Image Optimizer"
+
+#: includes/welcome-banner-config.php:123
+msgid "View site"
+msgstr "檢視網站"
+
+#: includes/welcome-banner-config.php:55
+msgid "Edit home page"
+msgstr "編輯首頁"
+
+#: modules/theme/classes/customizer-action-links.php:46
+msgid "Begin Setup"
+msgstr "開始設定"
+
+#: modules/admin-home/rest/admin-config.php:316
+msgid "Site Fonts"
+msgstr "網站字型"
+
+#: modules/admin-home/rest/admin-config.php:310
+msgid "Site Colors"
+msgstr "網站色彩"
+
+#: modules/admin-home/rest/admin-config.php:297
+msgid "Site Logo"
+msgstr "網站標誌"
+
+#: modules/admin-home/rest/admin-config.php:292
+msgid "Site Name"
+msgstr "網站名稱"
+
+#: modules/admin-home/rest/admin-config.php:208
+#: modules/theme/components/theme-support.php:23
+msgid "Footer"
+msgstr "頁尾"
+
+#: modules/admin-home/rest/admin-config.php:200
+#: modules/theme/components/theme-support.php:22
+msgid "Header"
+msgstr "頁首"
+
+#: modules/admin-home/rest/admin-config.php:189
+#: modules/settings/components/settings-menu.php:16
+#: modules/settings/components/settings-menu.php:17
+msgid "Settings"
+msgstr "設定"
+
+#: modules/admin-home/rest/admin-config.php:184
+msgid "Add New Page"
+msgstr "新增頁面"
+
+#: modules/admin-home/components/admin-menu-controller.php:39
+#: modules/admin-home/components/admin-menu-controller.php:40
+#: template-parts/header.php:30
+msgid "Home"
+msgstr "設定頁面"
+
+#: includes/module-base.php:259 includes/module-base.php:270
+msgid "Something went wrong."
+msgstr "執行時發生錯誤。"
+
+#: header.php:31
+msgid "Skip to content"
+msgstr "跳至主要內容"
+
+#: comments.php:37
+msgctxt "comments title"
+msgid "%s Response"
+msgid_plural "%s Responses"
+msgstr[0] "%s 則留言"
+
+#: comments.php:32
+msgctxt "comments title"
+msgid "One Response"
+msgstr "1 則留言"
+
+#. Author URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://elementor.com/?utm_source=wp-themes&utm_campaign=author-uri&utm_medium=wp-dash"
+msgstr "https://elementor.com/?utm_source=wp-themes&utm_campaign=author-uri&utm_medium=wp-dash"
+
+#. Author of the theme
+#: style.css
+#, gp-priority: low
+msgid "Elementor Team"
+msgstr "Elementor Team"
+
+#. Theme URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://elementor.com/products/hello-biz/?utm_source=wp-themes&utm_campaign=theme-uri&utm_medium=wp-dash"
+msgstr "https://elementor.com/products/hello-biz/?utm_source=wp-themes&utm_campaign=theme-uri&utm_medium=wp-dash"
